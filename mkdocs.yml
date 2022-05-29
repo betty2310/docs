@@ -1,0 +1,43 @@
+site_name: My Docs
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: Fira Code
+  features:
+    - navigation.top
+plugins:
+  - tags:
+      tags_file: tags.md
+  - search
+markdown_extensions:
+  - meta
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/betty2310
+      name: Betty on Github
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/betty2310
+      name: Betty on Linkedin
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/betty2310
+      name: Betty on Facebook
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/_betty2310
+      name: Betty on Twitter
+copyright: Copyright &copy; 2022 Huynh Duong - Betty2310
+repo_url: https://github.com/betty2310/everyday
+repo_name: betty230/docs
