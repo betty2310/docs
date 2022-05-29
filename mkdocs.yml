@@ -1,4 +1,7 @@
 site_name: My Docs
+site_description: My docs in uni
+site_author: Huynh Duong
+
 theme:
   name: material
   custom_dir: overrides
@@ -7,16 +10,21 @@ theme:
       primary: black
       accent: blue
       toggle:
-        icon: material/weather-night
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
       toggle:
-        icon: material/weather-sunny
+        icon: material/toggle-switch
         name: Switch to light mode
   font:
     text: Inter
-    code: Fira Code
+    code: Roboto Mono
   features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
     - navigation.top
 plugins:
   - tags:
@@ -66,3 +74,10 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Home:
+    - Home: index.md
+    - Tags: tags.md
+  - Dev:
+    - Test
