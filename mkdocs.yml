@@ -1,6 +1,7 @@
 site_name: My Docs
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: black
@@ -23,6 +24,26 @@ plugins:
   - search
 markdown_extensions:
   - meta
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
 extra:
   generator: false
   social:
@@ -39,5 +60,9 @@ extra:
       link: https://twitter.com/_betty2310
       name: Betty on Twitter
 copyright: Copyright &copy; 2022 Huynh Duong - Betty2310
-repo_url: https://github.com/betty2310/everyday
+repo_url: https://github.com/betty2310/docs
 repo_name: betty230/docs
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
