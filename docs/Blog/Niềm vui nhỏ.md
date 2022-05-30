@@ -1,7 +1,7 @@
 ---
 tags:
   - Linh tinh
-  - Vui
+  - Fun
 ---
 
 Mình là người luôn buồn.

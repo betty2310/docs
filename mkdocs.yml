@@ -1,5 +1,5 @@
 site_name: My Docs
-site_description: My docs in uni
+site_description: My space on the internet.
 site_author: Huynh Duong
 
 theme:
@@ -82,6 +82,7 @@ nav:
       - Tags: tags.md
   - Blog:
       - Blog/Niềm vui nhỏ.md
+      - Blog/trải nghiệm Hackintosh - Phần 2.md
   - Project:
       - Project/index.md
   - Learning:

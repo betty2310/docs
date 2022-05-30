@@ -1,89 +1,24 @@
-# Welcome to MkDocs
+# Welcome to My **world** :earth_asia:.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+:v: Hello! I'm Huynh Duong (Dương Hữu Huynh in Vietnamese, ズオン・ヒュー・フイン in Japanese and **betty** is nickname :laughing:). 
+Look like you've found my space on the internet.
 
-## Commands
+## The site contains:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* :computer: Project: Some projects I've done or working on.
+* :pencil2: Blog: Some articles I've written.
+* :mortar_board: Learing: Some stuff I'am learning.
+## :bird: Contact me! 
 
-Xin chào đây là footnote[^1] dù t vẫn chưa biết cách dùng,
+=== ":octicons-mark-github-16: github"
+    Find me on [github](https://github.com/betty2310).
+=== ":octicons-mail-16: Email"
+    Or send me an [email](mailto:huynh.dh2310@gmail.com)!
+    
+## :star2: Acknowledgements
 
-[^1]: tại sao yêu nhau ko đến được với nhau
-## Project layout
+Special thanks a ton to :hugging::
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-``` yaml title="Hello.yaml"
-theme:
-  features:
-    - content.code.annotate 
-```
-
-=== "C"
-
-    ``` c
-    #include <stdio.h>
-
-    int main(void) {
-      printf("Hello world!\n");
-      return 0;
-    }
-    ```
-
-=== "C++"
-
-    ``` c++
-    #include <iostream>
-
-    int main(void) {
-      std::cout << "Hello world!" << std::endl;
-      return 0;
-    }
-    ```
-
-!!! example
-
-    === "Unordered List"
-
-        ``` markdown
-        * Sed sagittis eleifend rutrum
-        * Donec vitae suscipit est
-        * Nulla tempor lobortis orci
-        ```
-
-    === "Ordered List"
-
-        ``` markdown
-        1. Sed sagittis eleifend rutrum
-        2. Donec vitae suscipit est
-        3. Nulla tempor lobortis orci
-        ```
-- ==This was marked==
-- ^^This was inserted^^
-- ~~This was deleted~~
-- H~2~0
-- 2^5^
-- ++ctrl+alt+del++
-- :smile:
-- :fontawesome-regular-face-laugh-wink:
-
-- [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
-- [ ] Vestibulum convallis sit amet nisi a tincidunt
-    * [x] In hac habitasse platea dictumst
-    * [x] In scelerisque nibh non dolor mollis congue sed et metus
-    * [ ] Praesent sed risus massa
-- [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
-
-The homomorphism $f$ is injective if and only if its kernel is only the 
-singleton set $e_G$, because otherwise $\exists a,b\in G$ with $a\neq b$ such 
-that $f(a)=f(b)$.
-
-$$
-\operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}
-$$
+1. [@betty](About/Me.md) there's nothing wrong with thanking yourself right?
+2. [@huytd](https://github.com/huytd) for the ideas of the site and inspire me so much! 
+3. [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) for help me build this website.
