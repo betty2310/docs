@@ -30,6 +30,7 @@ plugins:
   - tags:
       tags_file: tags.md
   - search
+  - git-revision-date-localized
 markdown_extensions:
   - meta
   - footnotes
@@ -40,7 +41,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.highlight
   - pymdownx.tabbed:
-      alternate_style: true 
+      alternate_style: true
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
@@ -77,7 +78,16 @@ extra_javascript:
 
 nav:
   - Home:
-    - Home: index.md
-    - Tags: tags.md
-  - Dev:
-    - Test
+      - Home: index.md
+      - Tags: tags.md
+  - Blog:
+      - Blog/Niềm vui nhỏ.md
+  - Project:
+      - Project/index.md
+  - Learning:
+      - Learning/index.md
+      - Japanese:
+          - Grammar:
+              - 11課: Learning/Japanese/Grammar/11課.md
+  - About:
+      - About/Me.md
