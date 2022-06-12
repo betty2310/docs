@@ -7,7 +7,7 @@ Look like you've found my space on the internet.
 
 * :computer: Project: Some projects I've done or working on.
 * :pencil2: Blog: Some articles I've written.
-* :mortar_board: Learing: Some stuff I'am learning.
+* :mortar_board: Learning: Some stuff currently I'am learning.
 ## :bird: Contact me! 
 
 === ":octicons-mark-github-16: github"
@@ -20,5 +20,5 @@ Look like you've found my space on the internet.
 Special thanks a ton to :hugging::
 
 1. [@betty](About/Me.md) there's nothing wrong with thanking yourself right?
-2. [@huytd](https://github.com/huytd) for the ideas of the site and inspire me so much! 
+2. [@huytd](https://github.com/huytd) for the ideas of the site and inspired me so much! 
 3. [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) for help me build this website.
