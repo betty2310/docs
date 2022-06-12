@@ -82,7 +82,15 @@ nav:
       - Tags: tags.md
   - Blog:
       - Blog/Niềm vui nhỏ.md
-      - Blog/trải nghiệm Hackintosh - Phần 2.md
+      - Blog/1 tuần trải nghiệm Hackintosh - Phần 2.md
+      - Blog/1 tuần trải nghiệm Hackintosh - Phần 1.md
+      - Blog/Lần đầu đi phỏng vấn.md
+      - Blog/c và c++.md
+      - Blog/pgAdmin4.md
+      - Blog/cá tháng 4.md
+      - Blog/buffer.md
+      - Blog/docker.md
+      - Blog/endian.md
   - Project:
       - Project/index.md
   - Learning:

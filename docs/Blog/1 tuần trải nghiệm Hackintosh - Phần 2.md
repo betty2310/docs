@@ -2,9 +2,8 @@
 tags:
   - Hackintosh 
   - Share
+title: 1 tuần trải nghiệm Hackintosh - Phần 2 
 ---
-
-# 05.24.2022 - Hackintosh / 1 tuần trải nghiệm Ep02
 
 [Phần 1](https://www.betty2310.rocks/everyday/05-02-2022-hackintosh-1-tu-n-tr-i-nghi-m-p1s-)
 
