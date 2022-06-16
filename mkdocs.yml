@@ -54,7 +54,7 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 extra:
-  generator: false
+  generator: true
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/betty2310
@@ -62,12 +62,12 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/betty2310
       name: Betty on Linkedin
-    - icon: fontawesome/brands/facebook
-      link: https://facebook.com/betty2310
-      name: Betty on Facebook
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/_betty2310
       name: Betty on Twitter
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/betty2310
+      name: Betty on Facebook
 copyright: Copyright &copy; 2022 Huynh Duong - Betty2310
 repo_url: https://github.com/betty2310/docs
 repo_name: betty230/docs
