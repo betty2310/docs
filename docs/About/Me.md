@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 * 🌱 &nbsp;I'm Huynh Duong Huu (Dương Hữu Huynh in Vietnamese)!
-* 🏫 &nbsp;I'm a college student at [Hanoi University Science and Technology](https://www.hust.edu.vn/web/vi/home) 
+* 🏫 &nbsp;I'm a college student at [Hanoi University Science and Technology](https://www.hust.edu.vn/web/en/home) 
 * 👨‍💻 &nbsp;I’m currently learning PostgreSQL, Rust and a bit Golang.
 * 😍 &nbsp;Fun fact: I :heart: :dog:, the green colour of trees :deciduous_tree: and look up at the sky 💙. 
 
