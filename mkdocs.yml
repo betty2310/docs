@@ -81,6 +81,7 @@ nav:
       - Home: index.md
       - Tags: tags.md
   - Blog:
+      - Blog/Chuyện con gấu.md
       - Blog/Niềm vui nhỏ.md
       - Blog/1 tuần trải nghiệm Hackintosh - Phần 2.md
       - Blog/1 tuần trải nghiệm Hackintosh - Phần 1.md
