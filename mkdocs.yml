@@ -94,6 +94,8 @@ nav:
       - Blog/endian.md
   - Project:
       - Project/index.md
+      - Fomatem:
+        - Project/fomatem/25jun.md
   - Learning:
       - Learning/index.md
       - Japanese:
