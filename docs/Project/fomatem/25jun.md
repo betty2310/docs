@@ -1,8 +1,4 @@
 ---
-tags:
-    - Java 
-    - Application
-    - Postgres
 title: Sat 25 Jun 2022
 ---
 
