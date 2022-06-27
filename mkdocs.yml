@@ -38,7 +38,11 @@ markdown_extensions:
   - pymdownx.details
   - attr_list
   - md_in_html
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.highlight
   - pymdownx.tabbed:
       alternate_style: true
@@ -92,10 +96,13 @@ nav:
       - Blog/buffer.md
       - Blog/docker.md
       - Blog/endian.md
+  - Learning:
+      - Learning/index.md
   - Project:
       - Project/index.md
       - Fomatem:
-        - Project/fomatem/26jun.md
-        - Project/fomatem/25jun.md
+          - Project/fomatem/27jun.md
+          - Project/fomatem/26jun.md
+          - Project/fomatem/25jun.md
   - About:
       - About/Me.md
