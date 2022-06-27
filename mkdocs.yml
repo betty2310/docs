@@ -30,7 +30,10 @@ plugins:
   - tags:
       tags_file: tags.md
   - search
-  - git-revision-date-localized
+  - git-revision-date-localized:
+      type: timeago
+      enable_creation_date: true
+
 markdown_extensions:
   - meta
   - footnotes
