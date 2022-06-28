@@ -99,13 +99,14 @@ nav:
       - Blog/buffer.md
       - Blog/docker.md
       - Blog/endian.md
-  - Learning:
-      - Learning/index.md
   - Project:
       - Project/index.md
       - Fomatem:
+          - Project/fomatem/28jun.md
           - Project/fomatem/27jun.md
           - Project/fomatem/26jun.md
           - Project/fomatem/25jun.md
+  - Learning:
+      - Learning/index.md
   - About:
       - About/Me.md
