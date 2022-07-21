@@ -17,8 +17,8 @@ Look like you've found my space on the internet.
     
 ## :star2: Acknowledgements
 
-Special thanks a ton to :hugging::
+Special thanks to :hugging::
 
 1. [@betty](About/Me.md) there's nothing wrong with thanking yourself right?
 2. [@huytd](https://github.com/huytd) for the ideas of the site and inspired me so much! 
-3. [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) for help me build this website.
+3. [@mkdocs-material](https://squidfunk.github.io/mkdocs-material/) for help me build this website.

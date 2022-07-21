@@ -1,4 +1,8 @@
-I keep a development log for some of the project I'm working on, you can find them here:
+---
+title: 💻 Projects 
+---
+
+I keep a development log for some of the projects I'm working on, you can find them here:
 
 + [FOMATEM](https://github.com/betty2310/FOMATEM): an **FO**ootballer **MA**nager Sy**tem** app.
 
