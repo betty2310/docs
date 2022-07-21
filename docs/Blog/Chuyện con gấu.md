@@ -15,10 +15,7 @@ Mình được nói chuyện với rất nhiều người, anh sinh viên cùng 
 
 Lần này quà hiến máu mình chọn được là 1 bé gấu:
 
-<figure markdown>
-  ![bear](https://scontent.fhan3-5.fna.fbcdn.net/v/t1.15752-9/286608978_538941691261745_8167786749825423935_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=H82OPF0zY0QAX_v-pEi&tn=4v_uY8wAH5Lav0Ow&_nc_ht=scontent.fhan3-5.fna&oh=03_AVJKqjnbzb4ePaxp8SUsVimOu99BRC65ZT9Aq8phw0X8Cg&oe=62D5E291){ width="400" }
-  <figcaption>Quá cute</figcaption>
-</figure>
+![bear](https://i.imgur.com/juzH1M6.jpg)
 
 Cơ mà chuyện chẳng có gì nếu mình mang con gấu về nhà, và mình lại muốn chuyện có "gì" cơ.
 
