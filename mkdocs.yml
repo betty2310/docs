@@ -63,7 +63,7 @@ markdown_extensions:
 extra:
   analytics:
     provider: google
-    property: G-B8XM7XBEP5 
+    property: G-B8XM7XBEP5
     feedback:
       title: Was this page helpful?
       ratings:
@@ -75,7 +75,7 @@ extra:
         - icon: material/emoticon-sad-outline
           name: This page could be improved
           data: 0
-          note: >- 
+          note: >-
             Thanks for your feedback! Help us improve this page by
             using our <a href="..." target=_blank>feedback form</a>.
   generator: true
@@ -97,6 +97,7 @@ repo_url: https://github.com/betty2310/docs
 repo_name: betty230/docs
 extra_javascript:
   - javascripts/mathjax.js
+  - javascripts/feedback.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
