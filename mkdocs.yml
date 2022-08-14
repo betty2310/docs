@@ -65,7 +65,7 @@ extra:
     provider: google
     property: G-B8XM7XBEP5
     feedback:
-      title: Was this page helpful?
+      title: How do you feel?
       ratings:
         - icon: material/emoticon-happy-outline
           name: This page was helpful
