@@ -50,6 +50,9 @@ Thôi kết bài bằng 1 đoạn "`thơ`" nói về "`dev`" mà ko trực tiế
 
 !!! quotes
     rose are red. 
+
     Violet are blue.
+
     You missed the semicolumn
+    
     In line forty-two. 
