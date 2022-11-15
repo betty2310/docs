@@ -5,6 +5,7 @@ site_author: Huynh Duong
 theme:
   icon:
     logo: material/penguin
+    repo: octicons/git-merge-24
   favicon: images/favicon.png
   name: material
   custom_dir: overrides
@@ -13,11 +14,11 @@ theme:
       primary: black
       accent: blue
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: octicons/moon-16
         name: Switch to dark mode
     - scheme: slate
       toggle:
-        icon: material/toggle-switch
+        icon: octicons/sun-16
         name: Switch to light mode
   font:
     text: Inter
@@ -128,6 +129,7 @@ nav:
           - Project/fomatem/27jun.md
           - Project/fomatem/26jun.md
           - Project/fomatem/25jun.md
+      - Project/Confetti.md
   - Learning:
       - Learning/index.md
   - About:
