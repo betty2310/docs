@@ -1,8 +1,11 @@
-site_name: My Docs
+site_name: Betty
 site_description: My space on the internet.
 site_author: Huynh Duong
 
 theme:
+  icon:
+    logo: material/penguin
+  favicon: images/favicon.png
   name: material
   custom_dir: overrides
   palette:
