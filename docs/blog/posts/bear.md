@@ -7,6 +7,7 @@ date: 2022-06-22
 authors: [betty]
 categories:
   - notes
+comments: true
 ---
 
 ## Hiến máu

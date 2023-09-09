@@ -1,4 +1,5 @@
 ---
+comments: true
 tags:
     - Docker
 title:  Run pgAdmin4 on Docker in Arch Linux

@@ -1,4 +1,5 @@
 ---
+comments: true
 tags:
     - Computer Architecture
 title: Little endian và Big endian 

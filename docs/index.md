@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Welcome to My **world** :earth_asia:.
 
 :v: Hello! I'm Huynh Duong (Dương Hữu Huynh in Vietnamese, ズオン・ヒュー・フイン in Japanese and **betty** is nickname :laughing:). 

@@ -6,6 +6,7 @@ date: 2022-05-05
 authors: [betty]
 categories:
   - tech
+comments: true
 --- 
 
 1 vài khái niệm cái nhể :grin:

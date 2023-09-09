@@ -1,4 +1,5 @@
 ---
+comments: true
 tags:
     - C & C++
 title: Về gcc và g++
