@@ -2,12 +2,17 @@
 tags:
     - C & C++
 title: Về gcc và g++
+date: 2022-05-05
+authors: [betty]
+categories:
+  - tech
 ---
 
 Nếu tìm `man gcc` và `man g++`, bạn đều thấy đều trỏ về 1 page với tiêu đề:
 
 !!! info
     gcc - GNU project C and C++ compiler
+<!-- more -->
 
 Vậy thì khác biệt ở 2 giữa chúng là gì? Cơ bản nhất, `gcc` sử dụng để biên dịch các file `.c`, ngược lại với `g++` sẽ biên dịch các file `.cpp`. Thực tế, có thể dùng cả 2 trình biên dịch cho cả 2 ngôn ngữ, tuy nhiên vẫn có sự khác biệt: `g++` nếu biên dịch file `c` sẽ vẫn coi nó là file `cpp` bình thường, còn `gcc` sẽ coi `c` và `cpp` là riêng biệt.
 

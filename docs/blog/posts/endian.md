@@ -2,7 +2,12 @@
 tags:
     - Computer Architecture
 title: Little endian và Big endian 
+date: 2022-05-05
+authors: [betty]
+categories:
+  - tech
 ---
+<!-- more -->
 
 ## Về cái tiêu đề
 

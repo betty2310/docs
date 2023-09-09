@@ -1,12 +1,18 @@
 ---
 tags:
-  - Linh tinh
-  - Fun
+    - Linh tinh
+    - Share
+title: Funny thing
+date: 2022-04-01
+authors: [betty]
+categories:
+  - notes
 ---
 
 Mình là người luôn buồn.
 
 Có lẽ từ khi lên đại học, mình nhận ra như thế, chẳng thể nhớ được niềm vui thật sự, nụ cười thực sự gần nhất là khi nào nữa. Tâm lý mình lúc nào cũng nặng.
+<!-- more -->
 
 Vài hôm trước, khi mình sang đường (đường Hà ~~Lội~~ Nội nhé :v), có một bà cụ nhờ mình dắt qua, trời nóng, mình cũng tiện lấy cái ô trong balo ra che luôn cho cụ. Sang bên kia, cụ cảm ơn mình, mình cảm ơn lại cụ. Cụ có lẽ không biết, mình giúp cụ thì ít, chứ cụ giúp mình lại thì nhiều lắm.
 

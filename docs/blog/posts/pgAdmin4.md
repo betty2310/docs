@@ -2,9 +2,14 @@
 tags:
     - Docker
 title:  Run pgAdmin4 on Docker in Arch Linux
+date: 2022-05-05
+authors: [betty]
+categories:
+  - tech
 ---
 
 [pgAdmin4](https://www.pgadmin.org/download/) là GUI cho postgreSQL - dbms mình sẽ học cho học phần Database ở đại học. Nó là web application được build dựa trên `python` và `Javascript/jQuery`. Việc cài đặt trên Linux rất đơn giản, với Arch linux:
+<!-- more -->
 
 ```bash
 $ yay -S pgadmin4

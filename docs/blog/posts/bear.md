@@ -3,11 +3,16 @@ tags:
     - Linh tinh
     - Fun
 title: Chuyện con gấu 🐻‍❄️
+date: 2022-06-22
+authors: [betty]
+categories:
+  - notes
 ---
 
 ## Hiến máu
 
 Lần thứ 3 mình đi hiến máu, lần thứ 2 trên trường Đại học.
+<!-- more -->
 
 Oi, nóng thì vãi hết mọi thể loại nước có thể vãi được, vẫn phải chen chúc xếp hàng chờ đến lượt. Đông, đông vãi cả đến sinh viên k60 cũng thấy (tiện thì anh ấy hiến lần này là lần thứ 26 :v). Tuy thế nhưng quả thật mình thấy rất xứng đáng với thời gian bỏ ra.
 

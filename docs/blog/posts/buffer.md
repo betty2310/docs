@@ -2,9 +2,14 @@
 tags:
     - Computer Architecture 
 title: Keyboard Buffer
+date: 2022-05-05
+authors: [betty]
+categories:
+  - tech
 --- 
 
 1 vài khái niệm cái nhể :grin:
+<!-- more -->
 
 !!! notes
     === "Buffer"

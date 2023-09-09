@@ -1,10 +1,15 @@
 --- 
 tags:
     - Docker
-title: Docker 🐳 - tutorial!!!
+title: Docker 🐳 - tutorial!!! 
+date: 2022-05-05
+authors: [betty]
+categories:
+  - tech
 ---
 
 Sắp tới mình sẽ học môn Cơ sở dữ liệu, nghe nói sẽ được tiếp xúc với MySQL các thứ các thứ :v. Thực ra đến giờ mình vẫn chả biết gì đâu, nhưng hiện tại mình đang dùng `OS` chính là `Arch Linux` (yeah, I use Arch btw), trong khi MySql chỉ chạy được trên `win` thôi, mà mình lại từng nghe qua [Docker](https://www.docker.com/) sẽ giải quyết được vấn đề này. Nên mình tiện đây sẽ tìm hiểu về Docker luôn!
+<!-- more -->
 
 Hôm nay sẽ chỉ nói về cách download Docker và setup chuẩn chỉ thôi nhỉ (vì chưa tìm hiểu được j nhiều :v). 
 

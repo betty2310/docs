@@ -3,6 +3,10 @@ tags:
     - Linh tinh
     - Share
 title: Cá tháng 4, chuyện học hành, thực tập, tương lai.
+date: 2022-04-01
+authors: [betty]
+categories:
+  - notes
 ---
 
 ## Thực tập, job fair và tiếng Nhật
@@ -12,6 +16,7 @@ Cá tháng 4, ngày nói đùa để mang lại niềm vui cho mọi người, n
 Từ những câu truyện bên lề như có 1 cô gái nọ vì tình yêu mà đốt nhà người ta, hay 1 em trai mới lớp 10 đã tự từ vì áp lực học tập. 
 
 Hay cả câu truyện tương lai, nghề nghiệp của chính bản thân. 
+<!-- more -->
 
 Mình không phải là người thông minh, mình tự nhận như vậy và luôn cảm thấy như vậy. Nhưng mình vẫn đạt được 2 lần học bổng từ trường đại học mang tiếng là khó lắm cơ mà, ấy là vì mình chăm chỉ - thứ mình cảm thấy "oh, chắc là điểm mạnh của mình đấy :v". Phải, mình không tự tin là thônng minh nhưng có thể khẳng định chăm chỉ, cần cù thì có thừa. 
 

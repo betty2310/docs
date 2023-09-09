@@ -3,11 +3,16 @@ tags:
     - Linh tinh
     - Share
 title: Lần đầu đi phỏng vấn!
+date: 2022-04-22
+authors: [betty]
+categories:
+  - notes
 ---
 
 Nói phỏng vấn lại nghe oai quá, mọi người lại tưởng apply vào công ty A, startup B hay C XYZ gì đó à :v. Thật ra thì mình chỉ đi phỏng vấn vào 1 clb trong trường thôi. 
 
 Câu lạc bộ mình phỏng vấn là [Sinno](http://sinno.soict.ai/), trực thuộc [Trường CNTT - ĐH Bách Khoa Hà Nội](https://soict.hust.edu.vn/). Nói sơ qua thì **Sinno** là clb sáng tạo, phát triển các project, hoạt động liên quan đến ngành CNTT, một trong những clb mạnh và uy tín nhất của trường :v. 
+<!-- more -->
 
 Ngay từ khi chân đất mắt toét (thật ra hôm đấy đi tông lào) vào trường, mình vẫn nhớ đấy là buổi mà các clb tập trung để tuyển thành viên. Mình đã ấn tượng nhất với Sinno rồi, đợt đấy anh chị để một con robot dò đường để thu hút mấy đứa như mình :v, trông thích ~~vcl~~. Rồi thì cũng có ý muốn được trở thành 1 thành viên của clb lắm chứ. 
 

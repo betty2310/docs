@@ -3,11 +3,20 @@ tags:
   - Hackintosh 
   - Share
 title: 1 tuần trải nghiệm Hackintosh - Phần 1
+date: 2022-05-05
+authors: [betty]
+description: >
+  1 tuần trải nghiệm Hackintosh - Phần 1
+categories:
+  - tech
+links:
+  - blog/posts/week-with-hackintosh-p2.md
 ---
 
 Đúng ra mình phải viết bài này từ hôm qua, thế mới tròn 1 tuần :v, nhưng hôm qua lại gặp vấn đề lớn mà mình sẽ đề cập ngay bên dưới, nên nay mới viết được. Thôi vào luôn chủ đề chính thôi. 
 
 Hackintosh - hiểu đơn giản là cài hệ điều hành MacOS trên các máy tính không phải của Apple sản xuất. Ví dụ nhưng laptop Thinkpad nhưng lại chạy macOS này (như mình - mình đổi tên nó thành ThinkMac luôn :v). 
+<!-- more -->
 
 2 phần quan trọng nhất của hackintosh là kexts và bootloader. Kexts thì tương tự như drives trên window, còn bootloader thì để đương nhiên để boot lên thôi :v, nó còn như kiểu giúp đánh lừa macOS nhận diện (từ các kext trên) rằng ừ, đây là máy tính của apple này vậy, boot vào đi bạn eii.
 

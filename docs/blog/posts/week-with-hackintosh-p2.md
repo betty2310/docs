@@ -2,14 +2,23 @@
 tags:
   - Hackintosh 
   - Share
-title: 1 tuần trải nghiệm Hackintosh - Phần 2 
+title: 1 tuần trải nghiệm Hackintosh - Phần 2
+date: 2022-05-05
+authors: [betty]
+description: >
+  1 tuần trải nghiệm Hackintosh - Phần 2
+categories:
+  - tech
+links:
+  - blog/posts/week-with-hackintosh-p1.md
 ---
 
-[Phần 1](https://www.betty2310.rocks/everyday/05-02-2022-hackintosh-1-tu-n-tr-i-nghi-m-p1s-)
+[Phần 1](./week-with-hackintosh-p1.md)
 
 Hihi, bẩu 1 tuần viết tiếp bài nữa về chủ đề này mà hoá ra thành cmn nó 3 tuần 🤣🤣. Chắc sẽ viết 1 bài tâm sự nhỉ. Nhưng mà giờ tập trung vào chủ đề **Hackintosh** nào.
 
 Sau khi mất boot window thì mình buộc phải tìm cách để cài thêm window vào máy thôi. Mình chắc chắn học chương trình đại học như mình không thể bỏ window được (Ơ đổ cho đại học là không đúng :v, thật ra mình vẫn muốn chơi game 😢). 
+<!-- more -->
 
 Thế là giờ có 2 cách:
 

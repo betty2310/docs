@@ -24,16 +24,37 @@ theme:
     text: Inter
     code: Roboto Mono
   features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
     - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
     - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+
 plugins:
   - tags:
       tags_file: tags.md
   - search
+  - blog: 
+      pagination_per_page: 5
   - git-revision-date-localized:
       type: timeago
       enable_creation_date: true
@@ -110,27 +131,6 @@ nav:
       - Home: index.md
       - Tags: tags.md
   - Blog:
-      - Blog/Chuyện con gấu.md
-      - Blog/Niềm vui nhỏ.md
-      - Blog/1 tuần trải nghiệm Hackintosh - Phần 2.md
-      - Blog/1 tuần trải nghiệm Hackintosh - Phần 1.md
-      - Blog/Lần đầu đi phỏng vấn.md
-      - Blog/c và c++.md
-      - Blog/pgAdmin4.md
-      - Blog/cá tháng 4.md
-      - Blog/buffer.md
-      - Blog/docker.md
-      - Blog/endian.md
-  - Project:
-      - Project/index.md
-      - Fomatem:
-          - Project/fomatem/29jun.md
-          - Project/fomatem/28jun.md
-          - Project/fomatem/27jun.md
-          - Project/fomatem/26jun.md
-          - Project/fomatem/25jun.md
-      - Project/Confetti.md
-  - Learning:
-      - Learning/index.md
+    - blog/index.md 
   - About:
       - About/Me.md
